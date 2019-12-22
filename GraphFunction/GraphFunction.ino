@@ -72,7 +72,7 @@ void loop()
     {
     UpdateShiftRegister();
 
-    ShiftRegisterTimer = millis() + 50;
+    ShiftRegisterTimer = millis() + 100;
     }
   
 
